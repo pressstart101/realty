@@ -116,7 +116,11 @@ img, video, audio, iframe, table, form {
 }
 
 [class*="col-"] {
+<<<<<<< HEAD
   margin-left: 2%;
+=======
+  margin: 2%; 
+>>>>>>> 82d52ff495de0f754f098c4e891e25ad4f34f472
 }
 
 .first {
