@@ -115,7 +115,7 @@ img, video, audio {
 }
 
 [class*="col-"] {
-  margin-left: 2%; 
+  margin: 2%; 
 }
 
 .first {
